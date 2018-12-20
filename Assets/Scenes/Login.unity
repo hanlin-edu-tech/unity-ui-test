@@ -359,7 +359,7 @@ GameObject:
   - component: {fileID: 335981913}
   - component: {fileID: 335981912}
   m_Layer: 5
-  m_Name: InputField
+  m_Name: UserName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1199,7 +1199,7 @@ GameObject:
   - component: {fileID: 1689385835}
   - component: {fileID: 1689385834}
   m_Layer: 5
-  m_Name: InputField (1)
+  m_Name: UserPW
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
