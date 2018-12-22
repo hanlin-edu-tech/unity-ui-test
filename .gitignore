@@ -4,7 +4,10 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-Assets/AssetStoreTools*
+[Aa]ssets/[Tt]ext[Mm]esh [Pp]ro
+[Aa]ssets/[Tt]ext[Mm]esh [Pp]ro.meta
+
+[Aa]ssets/AssetStoreTools*
 
 # Visual Studio cache directory
 .vs/
